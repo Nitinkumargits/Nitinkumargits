@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **To become full-stack developer**
 
-- 📫 How to reach me **nitink3141@gmail.com**
+- 📫 How to reach me **nitinkwork18@gmail.com**
 
 
 <p align="left">
