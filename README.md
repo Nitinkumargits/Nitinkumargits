@@ -1,11 +1,14 @@
 <div align="center">
+
 <img 
   src="https://capsule-render.vercel.app/api?type=waving&height=300&animation=fadeIn&color=0:2193b0,50:3a7bd5,100:6dd5ed&text=Hi%20👋,%20I'm%20Nitin%20Kumar" 
-  width="100%"/>
- 
-  ## 🏗️  Full-Stack Engineer | DevOps | System Architect
+  width="100%" 
+  alt="Hi I'm Nitin Kumar"
+/>
 
-<p align="center" style="margin-right:-10%;">
+<h2>🏗️ Full-Stack Engineer | DevOps | System Architect</h2>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img
       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=560&lines=Designing+Scalable+Architectures;Building+Distributed+Systems;Handling+Partial+Failures+Gracefully;Designing+Fault-Tolerant+Services;Automating+Cloud+Infrastructure;CI%2FCD+%26+Release+Engineering;Observability%2C+Monitoring+%26+Logging;Bridging+Code+and+Infrastructure"
@@ -13,22 +16,19 @@
     />
   </a>
 </p>
-
+<a href="https://komarev.com/ghpvc/?username=nitinkumargits&label=Profile%20Views&color=0e75b6&style=for-the-badge">
+  <p align="center">
+  <img width="170" height="128" alt="image" src="https://github.com/user-attachments/assets/5ec25045-498b-4c6c-ba32-2548f3cd5e9a" />
 </p>
+</a>
 <p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=nitinkumargits&label=Profile%20Views&color=0e75b6&style=for-the-badge" 
-    alt="Profile Views"
-  />
-</p>
-<p align="center">
-  📫 <strong>Reach me at:</strong> <a href="mailto:nitinkwork18@gmail.com">nitinkwork18@gmail.com</a>
-</p>
-<p align="center">
-  <b><em>“I design, build, and scale production-grade systems — from UI to infrastructure.”</em></b>
+  <b><em>
+    “I design, build, and scale production-grade systems — from UI to infrastructure.”
+  </em></b>
 </p>
 
 </div>
+
 
 ---
 
