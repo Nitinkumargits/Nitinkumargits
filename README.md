@@ -19,7 +19,12 @@
 </p>
 </a>
 
-### 📫 How to reach me:  nitinkwork18@gmail.com
+<p align="center">
+  📫 How to reach me: 
+  <a href="mailto:nitinkwork18@gmail.com" target="_blank">
+    <strong>nitinkwork18@gmail.com</strong>
+  </a>
+</p>
 
 
 <p align="center">
