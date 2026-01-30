@@ -2,17 +2,18 @@
 <img 
   src="https://capsule-render.vercel.app/api?type=waving&height=300&animation=fadeIn&color=0:2193b0,50:3a7bd5,100:6dd5ed&text=Hi%20👋,%20I'm%20Nitin%20Kumar" 
   width="100%"/>
-
-  
+ 
   ## 🏗️  Full-Stack Engineer | DevOps | System Architect
 
-<p align="right">
+<p align="center" style="margin-right:-10%;">
   <a href="https://git.io/typing-svg">
     <img
       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=560&lines=Designing+Scalable+Architectures;Building+Distributed+Systems;Handling+Partial+Failures+Gracefully;Designing+Fault-Tolerant+Services;Automating+Cloud+Infrastructure;CI%2FCD+%26+Release+Engineering;Observability%2C+Monitoring+%26+Logging;Bridging+Code+and+Infrastructure"
       alt="Typing SVG"
     />
   </a>
+</p>
+
 </p>
 <p align="center">
   <img 
@@ -32,15 +33,15 @@
 ---
 
 ### 🧠 Engineering Philosophy
-<img align="right" alt="System Design GIF" width="350" src="https://camo.githubusercontent.com/ff194145269d4ac5d2df4cc4f6c0d94c1432532a3dcca4b0e1be18ba214d12da/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
 
+<img align="right" alt="System Design GIF" width="350" src="https://camo.githubusercontent.com/ff194145269d4ac5d2df4cc4f6c0d94c1432532a3dcca4b0e1be18ba214d12da/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
 
 I build systems that don't just work—they **scale**. My focus is on the intersection of high-performance code and resilient infrastructure.
 
-* **Design for Failure:** Implementing circuit breakers, retries, and graceful degradation.
-* **Infrastructure as Code:** If it's not automated, it's a liability.
-* **Observability:** Building systems that tell you what’s wrong before the user does.
-* **Performance First:** Optimizing every millisecond from the DB query to the DOM.
+- **Design for Failure:** Implementing circuit breakers, retries, and graceful degradation.
+- **Infrastructure as Code:** If it's not automated, it's a liability.
+- **Observability:** Building systems that tell you what’s wrong before the user does.
+- **Performance First:** Optimizing every millisecond from the DB query to the DOM.
 
 ---
 
@@ -69,6 +70,7 @@ I build systems that don't just work—they **scale**. My focus is on the inters
 ---
 
 ### 🚀 Production Pipeline Expertise
+
 <table align="center">
   <tr>
     <td align="center" width="50%">
@@ -88,15 +90,16 @@ I build systems that don't just work—they **scale**. My focus is on the inters
   </tr>
 </table>
 
-
 ---
 
 ### 🏆 Engineering Milestones
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinkumargits&theme=tokyonight&area=true" width="100%" />
 </p>
 
 ---
+
 <h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -208,6 +211,7 @@ I build systems that don't just work—they **scale**. My focus is on the inters
 ---
 
 ### 🤝 Let's Collaborate
+
 <!-- ===== Let's Collaborate ===== -->
 
 <p align="center">
@@ -215,12 +219,27 @@ I build systems that don't just work—they **scale**. My focus is on the inters
 </p>
 
 <p align="center">
-  <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJ3a3Z3ZTR1OGp4c3Z6NHRpM3p2Z2Q3bmdrM3ZlNGN2c2t1M2RjZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3q2K5jinAlChoCLS/giphy.gif" 
-    width="140" 
-    alt="Collaboration Animation"
-  />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnB1aWJ5dXJwZXZ6YW05d3F4Znl5bHpxa3g3M2c4dGZvdGxqZHB6ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26ufdipQqU2lhNA4g/giphy.gif" width="140"  height="165" alt="Handshake Animation"/>
+<table align="center" border="0" cellspacing="" cellpadding="0">
+  <tr>
+    <td align="center" style="border: none;  padding-right:10px;">
+      <img 
+        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJ3a3Z3ZTR1OGp4c3Z6NHRpM3p2Z2Q3bmdrM3ZlNGN2c2t1M2RjZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3q2K5jinAlChoCLS/giphy.gif" 
+        width="140" 
+        height="165" 
+        alt="Collaboration Animation"
+      />
+    </td>
+    <td align="center" style="border: none; padding-left:10px;">
+      <img 
+        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnB1aWJ5dXJwZXZ6YW05d3F4Znl5bHpxa3g3M2c4dGZvdGxqZHB6ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26ufdipQqU2lhNA4g/giphy.gif" 
+        width="140" 
+        height="165" 
+        alt="Handshake Animation"
+      />
+    </td>
+  </tr>
+</table>
+
 </p>
 
 <p align="center">
@@ -240,10 +259,33 @@ I build systems that don't just work—they **scale**. My focus is on the inters
 <br />
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320" height="200" />
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="200" width="320" />
-  <br>
-  <b>"Clean code is not written by humans, it's refined by them."</b>
+  <table align="center" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" style="border:none; padding-right:10px;">
+        <img 
+          src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" 
+          width="320" 
+          height="200" 
+          alt="Animation 1"
+        />
+      </td>
+      <td align="center" style="border:none; padding-left:10px;">
+        <img 
+          src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
+          width="320" 
+          height="200" 
+          alt="Animation 2"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" style="padding-top:12px;">
+        <i><b>"Clean code is not written by humans, it's refined by them."</b></i>
+      </td>
+    </tr>
+  </table>
+</div>
+
 </div>
 
 ---
