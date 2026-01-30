@@ -6,16 +6,13 @@
   alt="Hi I'm Nitin Kumar"
 />
 
-<h2>🏗️ Full-Stack Engineer | DevOps | System Architect</h2>
+## 🏗️ Full-Stack Engineer | DevOps | System Architect
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=560&lines=Designing+Scalable+Architectures;Building+Distributed+Systems;Handling+Partial+Failures+Gracefully;Designing+Fault-Tolerant+Services;Automating+Cloud+Infrastructure;CI%2FCD+%26+Release+Engineering;Observability%2C+Monitoring+%26+Logging;Bridging+Code+and+Infrastructure"
-      alt="Typing SVG"
-    />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Architecting+Scalable+Cloud+Systems;Distributed+Systems+%26+Reliability+Engineering;Designing+for+Failure+%26+Recovery;Infrastructure+as+Code+%28IaC%29;CI%2FCD+%26+Release+Automation;Observability%2C+SLIs+%26+SLOs;Production-Grade+System+Design&font=Fira%20Code&center=true&width=460&height=50&duration=4000&pause=1000" />
 </p>
+
+
 <a href="https://komarev.com/ghpvc/?username=nitinkumargits&label=Profile%20Views&color=0e75b6&style=for-the-badge">
   <p align="center">
   <img width="170" height="128" alt="image" src="https://github.com/user-attachments/assets/5ec25045-498b-4c6c-ba32-2548f3cd5e9a" />
