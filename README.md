@@ -18,6 +18,10 @@
   <img width="170" height="128" alt="image" src="https://github.com/user-attachments/assets/5ec25045-498b-4c6c-ba32-2548f3cd5e9a" />
 </p>
 </a>
+
+### 📫 How to reach me:  nitinkwork18@gmail.com
+
+
 <p align="center">
   <b><em>
     “I design, build, and scale production-grade systems — from UI to infrastructure.”
