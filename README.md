@@ -253,11 +253,11 @@ I build systems that don't just work—they **scale**. My focus is on the inters
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/nitin-kumar-b0362b27a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://nitinkumargits.io">
+  <a href="https://nitinkumargits.github.io/Portfolio-Official/">
     <img src="https://img.shields.io/badge/Portfolio-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
