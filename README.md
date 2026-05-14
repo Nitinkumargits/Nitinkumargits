@@ -13,16 +13,22 @@
 </p>
 
 
-<a href="https://komarev.com/ghpvc/?username=nitinkumargits&label=Profile%20Views&color=0e75b6&style=for-the-badge">
-  <p align="center">
-  <img width="170" height="128" alt="image" src="https://github.com/user-attachments/assets/5ec25045-498b-4c6c-ba32-2548f3cd5e9a" />
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=nitinkumargits">
+    <img src="https://komarev.com/ghpvc/?username=nitinkumargits&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
 </p>
-</a>
+
 
 <p align="center">
   📫 How to reach me: 
   <a href="mailto:nitinkwork18@gmail.com" target="_blank">
     <strong>nitinkwork18@gmail.com</strong>
+  </a>
+  <br>
+  🌐 Portfolio: 
+  <a href="https://nitinkumargits.github.io/Portfolio-Official/" target="_blank">
+    <strong>Portfolio</strong>
   </a>
 </p>
 
